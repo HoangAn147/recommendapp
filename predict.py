@@ -107,4 +107,4 @@ def get_path(path):
     final_path = image_path[0]
     return final_path
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
